@@ -1,0 +1,6 @@
+﻿  Assignment 3.cpp
+C:\Users\jonat\source\repos\information systems\Assignment 3\Assignment 3\Assignment 3.cpp(103,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonat\source\repos\information systems\Assignment 3\Assignment 3\Assignment 3.cpp(134,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonat\source\repos\information systems\Assignment 3\Assignment 3\Assignment 3.cpp(166,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonat\source\repos\information systems\Assignment 3\Assignment 3\Assignment 3.cpp(188,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 3.vcxproj -> C:\Users\jonat\source\repos\information systems\Assignment 3\x64\Debug\Assignment 3.exe
